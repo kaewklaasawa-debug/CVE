@@ -1,2 +1,3 @@
 print("Hello world")
-print("Hello world cvE 100")
+print("Hello CVE KMUTT")
+print("Hello, sawatdee kub")
